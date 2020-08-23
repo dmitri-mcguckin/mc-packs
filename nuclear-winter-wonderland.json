@@ -392,12 +392,6 @@
       "required": true
     },
     {
-      "fileID": 2855805,
-      "name": "Security Craft",
-      "projectID": 64760,
-      "required": true
-    },
-    {
       "fileID": 2816362,
       "name": "Reborn Core",
       "projectID": 237903,
@@ -570,6 +564,12 @@
       "name": "ICBM - Classic",
       "projectID": 244451,
       "required": true
+    },
+    {
+      "fileID": 2902483,
+      "name": "Tinkers Construct",
+      "projectID": 74072,
+      "required": true
     }
   ],
   "manifestType": "minecraftModpack",
@@ -586,5 +586,5 @@
   "name": "Nuclear Winter Wonderland",
   "overrides": "overrides",
   "sponge_version": "7.2.0",
-  "version": "3.3.1"
+  "version": "4.0.0"
 }
