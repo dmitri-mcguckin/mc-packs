@@ -1,0 +1,38 @@
+{
+  "author": "the_ivo_robotnic",
+  "files": [
+    {
+      "fileID": 2995897,
+      "name": "JEI",
+      "projectID": 238222,
+      "required": true
+    },
+    {
+      "fileID": 2916002,
+      "name": "JourneyMap",
+      "projectID": 32274,
+      "required": true
+    },
+    {
+      "fileID": 2828357,
+      "name": "OpenComputers (by Sangar_)",
+      "projectID": 223008,
+      "required": true
+    }
+  ],
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "minecraft": {
+    "modLoaders": [
+      {
+        "id": "forge-14.23.5.2838",
+        "primary": true
+      }
+    ],
+    "version": "1.12.1"
+  },
+  "name": "OpenComputers Only",
+  "overrides": "overrides",
+  "sponge_version": null,
+  "version": "1.0.0"
+}
