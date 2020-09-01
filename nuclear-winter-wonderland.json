@@ -500,26 +500,14 @@
       "required": true
     },
     {
-      "fileID": 2920438,
+      "fileID": 2926428,
       "name": "Thermal Foundation",
-      "projectID": 69163,
-      "required": true
-    },
-    {
-      "fileID": 2920504,
-      "name": "N/A",
       "projectID": 222880,
       "required": true
     },
     {
-      "fileID": 2920433,
-      "name": "CoFH World",
-      "projectID": 69162,
-      "required": true
-    },
-    {
       "fileID": 2920434,
-      "name": "N/A",
+      "name": "CoFH World",
       "projectID": 271384,
       "required": true
     },
@@ -533,12 +521,6 @@
       "fileID": 2775229,
       "name": "Ender Zoo",
       "projectID": 303001,
-      "required": true
-    },
-    {
-      "fileID": 2717691,
-      "name": "Techguns",
-      "projectID": 244201,
       "required": true
     },
     {
@@ -570,6 +552,78 @@
       "name": "Tinkers Construct",
       "projectID": 74072,
       "required": true
+    },
+    {
+      "fileID": 2568751,
+      "name": "Hwyla",
+      "projectID": 253449,
+      "required": true
+    },
+    {
+      "fileID": 2704397,
+      "name": "Deep Resonance",
+      "projectID": 233398,
+      "required": true
+    },
+    {
+      "fileID": 2705813,
+      "name": "RFTools Control",
+      "projectID": 250763,
+      "required": true
+    },
+    {
+      "fileID": 2853959,
+      "name": "ElecCore",
+      "projectID": 227391,
+      "required": true
+    },
+    {
+      "fileID": 2836960,
+      "name": "Bookshelf",
+      "projectID": 228525,
+      "required": true
+    },
+    {
+      "fileID": 2916368,
+      "name": "Wawla - What Are We Looking At",
+      "projectID": 224712,
+      "required": true
+    },
+    {
+      "fileID": 2579934,
+      "name": "Moar Tinkers",
+      "projectID": 263624,
+      "required": true
+    },
+    {
+      "fileID": 2920433,
+      "name": "CoFH Core",
+      "projectID": 69162,
+      "required": true
+    },
+    {
+      "fileID": 2939416,
+      "name": "Redstone Arsenal",
+      "projectID": 70631,
+      "required": true
+    },
+    {
+      "fileID": 2920437,
+      "name": "Thermal Cultivation",
+      "projectID": 271835,
+      "required": true
+    },
+    {
+      "fileID": 2926431,
+      "name": "Thermal Expansion",
+      "projectID": 69163,
+      "required": true
+    },
+    {
+      "fileID": 2920505,
+      "name": "Thermal Dynamics",
+      "projectID": 227443,
+      "required": true
     }
   ],
   "manifestType": "minecraftModpack",
@@ -586,5 +640,5 @@
   "name": "Nuclear Winter Wonderland",
   "overrides": "overrides",
   "sponge_version": "7.2.0",
-  "version": "4.0.0"
+  "version": "4.1.0"
 }
